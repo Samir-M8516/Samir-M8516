@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**Samir-M8516/Samir-M8516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://ghchart.rshah.org/39d353/YOUR_USERNAME" alt="GitHub contribution graph" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br />
+
+```text
+YOUR_USERNAME@github ~ $ neofetch
+
+        ▄▄▄▄▄▄▄▄▄▄▄▄            YOUR_USERNAME@github
+      ▄█▀▀▀▀▀▀▀▀▀▀▀▀█▄          ──────────────────────────────────────
+     █▀   ▄▄▄  ▄▄▄   ▀█        Role       Software Engineer @ Company
+     █   ████  ████   █        Focus      Building products @ Startup
+     █    ▀▀▀  ▀▀▀    █        Edu        B.Tech CSE, University '24
+     █      ▄▄▄▄      █        Location   City, Country
+      █▄   ▀▀▀▀▀▀   ▄█
+       ▀█▄▄▄▄▄▄▄▄▄▄█▀          ─── Stack ─────────────────────────────
+     ▄▄██▀▀▀▀▀▀▀▀▀▀██▄▄        React · Next.js · TypeScript · Node.js
+    █▀                ▀█       Python · Django · PostgreSQL · Docker
+                               AWS · Git · Linux · Redis
+
+                               ─── Highlights ──────────────────────
+                               ⚡ Taught 100+ developers to code
+                               🏆 2 hackathon wins · 1000+ commits/year
+                               📫 your.email@example.com
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-39d353?style=for-the-badge&logo=vercel&logoColor=black)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353)](mailto:your.email@example.com)
+
+</div>
